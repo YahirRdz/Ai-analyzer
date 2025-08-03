@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9732e832-d114-4dfe-a264-6b0f47dde0d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ResumeCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ScoreCircle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/auth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/puter.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,11 +76,24 @@
       <workItem from="1753831592504" duration="625000" />
       <workItem from="1753834023442" duration="459000" />
       <workItem from="1753834499156" duration="2049000" />
-      <workItem from="1754016174271" duration="3426000" />
+      <workItem from="1754016174271" duration="4190000" />
+      <workItem from="1754186151987" duration="6894000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/lib/puter.ts</url>
+          <line>2</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
